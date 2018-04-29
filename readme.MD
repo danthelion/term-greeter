@@ -14,3 +14,5 @@ $ python term-greeter.py -t "Hey There!"
 ```
 
 Add to your .bashrc / .zshrc for a custom greeting!
+
+Inspired by [figurine](https://github.com/arsham/figurine)
